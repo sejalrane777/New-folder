@@ -1,6 +1,6 @@
 
 # CapstoneProject-Group3
-# Project Name :  plant desease detection
+# Project Name :  Plant Disease Detection
 Capstone Project for AIMLOps by Group 3 , this is for plant desease detection.
  
 
